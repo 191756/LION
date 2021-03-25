@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+*{ margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+.body{
+	font-family: 
+	
+}
+
+.myheader{ 
+
+	background-image: url("");
+	height: 200px; 
+	background-size: cover;
+}
+
+.container{
+	width: 1920px;
+	Height: 540px;
+	
+}
+
+.container2{
+	width: 1920px;
+	Height: 540px;
+	padding-left: 70px;
+}
+
+.footer{
+	display:block;
+	color: #FFFFFF;
+}
