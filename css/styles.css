@@ -10,15 +10,17 @@
 	color:#000000 !important;
 }
 
+/*hover and active don't work yet*/
 .nav-link :active{
 	font-weight: 800;
 	color: #B70407 !important;
 }
 
-.nav-link :hover{
+ .nav-link :hover{
 	font-weight: 800;
 	color: #B70407 !important;
 }
+
 
 .myheader{ 
 
@@ -27,19 +29,20 @@
 	background-size: cover;
 }
 
+/*jumbotron dimensions*/
 .container{
 	width: 1920px;
 	Height: 540px;
-	
 }
 
 .jumbotroncolor1 {
 	background-color: #FFFFFF;
-	
 }
 
+/*used to delete the white space*/
 .cleanup {
 	margin-top: -32px;
+	margin-bottom: -1px;
 }
 
 .container2{
@@ -50,5 +53,24 @@
 
 .footer{
 	display:block;
-	color: #FFFFFF;
+	color: #000000;
+	background-color: #D0CFCF !important;
 }
+
+
+.movestuff{
+    display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	background-color: #DADADA;
+	padding-top: 40px;
+	padding-left: 40px;
+	padding-bottom: 20px;
+}
+
+.media{
+	margin-top: -20px;
+}
+	
+	
+
