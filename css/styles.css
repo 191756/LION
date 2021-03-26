@@ -6,6 +6,19 @@
 	font-family: 
 	
 }
+.navbar .nav-link{
+	color:#000000 !important;
+}
+
+.nav-link :active{
+	font-weight: 800;
+	color: #B70407 !important;
+}
+
+.nav-link :hover{
+	font-weight: 800;
+	color: #B70407 !important;
+}
 
 .myheader{ 
 
@@ -18,6 +31,15 @@
 	width: 1920px;
 	Height: 540px;
 	
+}
+
+.jumbotroncolor1 {
+	background-color: #FFFFFF;
+	
+}
+
+.cleanup {
+	margin-top: -32px;
 }
 
 .container2{
