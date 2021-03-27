@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+*{ margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+.body{
+	font-family:;
+}
+
+.navbar .nav-link{
+	color:#000000 !important;
+}
+
+/*hover and active don't work yet*/
+.nav-link :active{
+	font-weight: 800;
+	color: #B70407 !important;
+}
+
+ .nav-link :hover{
+	font-weight: 800;
+	color: #B70407 !important;
+}
+
+
+
+/*jumbotron dimensions*/
+.container{
+	width: 1920px;
+	Height: 540px;
+}
+
+.jumbotroncolor1 {
+	background-color: #FFFFFF;
+}
+
+/*used to delete the white space*/
+.cleanup {
+	margin-top: -32px;
+	margin-bottom: -1px;
+}
+
+.container2{
+	width: 1920px;
+	Height: 540px;
+	padding-left: 70px;
+}
+
+.footer{
+	display:block;
+	color: #000000;
+	background-color: #D0CFCF !important;
+}
+
+
+.movestuff{
+	background-color: #DADADA;
+}
+	
+
