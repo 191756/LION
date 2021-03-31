@@ -97,3 +97,26 @@ h2{
 .socials{ 
 align-content:space-around;
 }
+
+.row{
+	align-items: center;
+	justify-content: space-between;
+	
+}
+.myfooter{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	align-items: center;
+	height: 60px;
+	
+} 
+
+.zaza{
+	display: flex;
+	flex-direction: row;
+}
+
+.myicons {
+	height:60px;
+}
