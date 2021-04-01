@@ -98,9 +98,20 @@ h2{
 align-content:space-around;
 }
 
-.row{
+.footer{
 	align-items: center;
 	justify-content: space-between;
+	
+}
+
+.icons{
+	align-items: center;
+	justify-content: flex-start;
+	
+}
+
+.instagram{
+	align-self: center;	
 	
 }
 .myfooter{
@@ -119,4 +130,8 @@ align-content:space-around;
 
 .myicons {
 	height:60px;
+}
+
+.submit {
+	
 }
