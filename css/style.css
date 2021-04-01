@@ -40,6 +40,17 @@ h2{
 	color: #B22600;
 }
 
+h3{
+text-align: center;
+	font-family: bodoni-urw, serif;
+	font-weight: 700;
+	font-size: 30pt;
+	font-style: normal;
+	color: #B22600;
+	
+	
+}
+
 .container1{
 	background: #EBEAEA;
 	padding-top: 100px;
@@ -129,9 +140,13 @@ align-content:space-around;
 }
 
 .myicons {
-	height:60px;
+	height:70px;
+	display: flex;
+	justify-content: flex-start;
 }
 
-.submit {
-	
+.carousel {
+	height: 500px;
+	width: 300px;
+	margin-left: 130px;
 }
