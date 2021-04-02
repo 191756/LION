@@ -9,6 +9,49 @@ html, body{
     overflow-x: hidden; 
 }
 
+a{
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #B22600;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.shop{
+	background: #EBEAEA;
+	padding: 0px 180px 100px;
+}
+
+.shake1{
+	padding: 100px 50px 30px 
+}
+
+.name1{
+	text-align: center;
+	font-family: bodoni-urw, serif;
+	font-weight: 800;
+	font-size: 17pt;
+	font-style: normal;
+}
+
+.price1{
+	text-align: center;
+	font-family: bodoni-urw, serif;
+	font-weight: 500;
+	font-size: 20pt;
+	font-style: normal;
+}
+
 .about1{
 	text-align: right;
 	font-family: bodoni-urw, serif;
