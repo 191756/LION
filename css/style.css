@@ -1,6 +1,41 @@
 @charset "utf-8";
 /* CSS Document */
 
+html, body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+.about1{
+	text-align: right;
+	font-family: bodoni-urw, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 16pt;
+	padding: 10px 10px 10px 110px
+}
+
+.about2{
+	text-align: left;
+	font-family: bodoni-urw, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 16pt;
+	padding: 10px 110px 10px 10px
+}
+
+.pic1{
+	text-align: center;
+	padding: 5px
+}
+
+.pic{
+	text-align: center;
+}
+
 p2{
 	font-family: bodoni-urw, serif;
 	font-weight: 700;
@@ -15,6 +50,39 @@ p1{
 	font-size: 14pt;
 	font-style: normal;
 }
+h4{
+	text-align: right;
+	font-family: bodoni-urw, serif;
+	font-weight: 700;
+	font-size: 40pt;
+	font-style: normal;
+}
+
+h5{
+	text-align: left;
+	font-family: bodoni-urw, serif;
+	font-weight: 700;
+	font-size: 40pt;
+	font-style: normal;
+}
+
+.container4{
+	background: #EBEAEA;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.butt2{
+	padding-bottom: 10px;
+}
+
+
+.container3{
+	background-color: #E3E3E3;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
 h1{
 	text-align: center;
 	font-family: bodoni-urw, serif;
@@ -28,7 +96,7 @@ h1{
 	font-family: bodoni-urw, serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 14pt;
+	font-size: 18pt;
 }
 
 h2{
@@ -69,7 +137,7 @@ text-align: center;
 	text-align: right;
 	font-family: bodoni-urw, serif;
 	font-weight: 400;
-	font-size: 12pt;
+	font-size: 15pt;
 	font-style: normal;
 }
 
@@ -77,13 +145,14 @@ text-align: center;
 	text-align: left;
 	font-family: bodoni-urw, serif;
 	font-weight: 400;
-	font-size: 12pt;
+	font-size: 15pt;
 	font-style: normal;
 }
 
 .container2{
 	background-color: #E3E3E3;
 	padding: 100px;
+
 }
 
 .shake{
@@ -112,7 +181,6 @@ align-content:space-around;
 .footer{
 	align-items: center;
 	justify-content: space-between;
-	
 }
 
 .icons{
@@ -125,6 +193,8 @@ align-content:space-around;
 	align-self: center;	
 	
 }
+
+
 .myfooter{
 	display: flex;
 	flex-direction: row;
@@ -158,5 +228,4 @@ align-content:space-around;
 .taskflow {
 	height: 325px;
 	adding-left: 100px;
-}
 }
