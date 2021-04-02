@@ -9,6 +9,98 @@ html, body{
     overflow-x: hidden; 
 }
 
+.product1{
+	background: #EBEAEA;
+	padding: 100px 200px;
+}
+
+h6{
+	text-align: left;
+	font-family: bodoni-urw, serif;
+	font-weight: 800;
+	font-size: 35pt;
+	font-style: normal;
+}
+
+.title1{
+	padding-bottom: 30px;
+}
+
+
+h7{
+	text-align: left;
+	font-family: bodoni-urw, serif;
+	font-weight: 550;
+	font-size: 30pt;
+	font-style: normal;
+}
+
+p3{
+	text-align: left;
+	font-family: bodoni-urw, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 15pt;
+}
+
+
+label{
+	text-align: left;
+	font-family: bodoni-urw, serif;
+	font-weight: 800;
+	font-style: normal;
+	font-size: 13pt;
+	padding-top: 20px
+}
+
+.shakepr{
+	padding-right: 40px;
+}
+
+.buybtn{
+	padding-top: 40px;
+	padding-right: 100px;
+}
+
+
+.product2{
+	background-color: #E3E3E3;
+	padding: 100px 200px;
+}
+
+.prod{
+	padding-bottom: 30px;
+	text-align: right;
+}
+
+h8{
+	font-family: bodoni-urw, serif;
+	font-weight: 800;
+	font-size: 35pt;
+	font-style: normal;
+}
+
+h9{
+	text-align: right;
+	font-family: bodoni-urw, serif;
+	font-weight: 600;
+	font-size: 25pt;
+	font-style: normal;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+.nutri2{
+	text-align: right;
+}
+
+p4{
+	font-family: bodoni-urw, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 15pt;
+}
+
 a{
   color: black;
   background-color: transparent;
