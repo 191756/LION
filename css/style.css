@@ -28,7 +28,6 @@ h6{
 
 
 h7{
-	text-align: left;
 	font-family: bodoni-urw, serif;
 	font-weight: 550;
 	font-size: 30pt;
@@ -323,10 +322,12 @@ align-content:space-around;
 	
 .images2{
 	flex-direction: column;
-	align-content: space-between;
 	display: flex;
-	width: 50px;
-	height: 60px;
+	justify-content: space-around;
+}
+
+.insta{
+	text-align: center;
 }
 
 .abouttext{ 
